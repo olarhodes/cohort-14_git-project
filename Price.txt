@@ -1,4 +1,6 @@
 Mango - 2CAD
 Apple - 5CAD
 Banana  - 0.15CAD
-Pineappple - 6CADI
+Pineappple - 8CAD
+Cherry - 3CAD
+Avocado -5CAD
